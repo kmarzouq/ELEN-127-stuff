@@ -1,0 +1,78 @@
+Chronologic VCS simulator copyright 1991-2019
+Contains Synopsys proprietary information.
+Compiler version P-2019.06-SP2-1_Full64; Runtime version P-2019.06-SP2-1_Full64;  Nov  3 16:25 2023
+VCD+ Writer P-2019.06-SP2-1_Full64 Copyright (c) 1991-2019 by Synopsys Inc.
+The file '/DCNFS/users/student/kmujtaba/elen127/exam2/prob1/inter.vpd' was opened successfully.
+Start of the  test
+Setup
+CLKin=0,RST=1,CLKout=0,@                    5
+Start
+CLKin=1,RST=0,CLKout=0,@                   10
+CLKin=0,RST=0,CLKout=0,@                   15
+CLKin=1,RST=0,CLKout=0,@                   20
+CLKin=0,RST=0,CLKout=0,@                   25
+CLKin=1,RST=0,CLKout=0,@                   30
+CLKin=0,RST=0,CLKout=0,@                   35
+CLKin=1,RST=0,CLKout=0,@                   40
+CLKin=0,RST=0,CLKout=0,@                   45
+CLKin=1,RST=0,CLKout=0,@                   50
+CLKin=0,RST=0,CLKout=0,@                   55
+Set High
+CLKin=1,RST=0,CLKout=1,@                   60
+CLKin=0,RST=0,CLKout=1,@                   65
+CLKin=1,RST=0,CLKout=1,@                   70
+CLKin=0,RST=0,CLKout=1,@                   75
+CLKin=1,RST=0,CLKout=1,@                   80
+CLKin=0,RST=0,CLKout=1,@                   85
+CLKin=1,RST=0,CLKout=1,@                   90
+CLKin=0,RST=0,CLKout=1,@                   95
+CLKin=1,RST=0,CLKout=1,@                  100
+CLKin=0,RST=0,CLKout=1,@                  105
+Set Low
+CLKin=1,RST=0,CLKout=0,@                  110
+CLKin=0,RST=0,CLKout=0,@                  115
+CLKin=1,RST=0,CLKout=0,@                  120
+CLKin=0,RST=0,CLKout=0,@                  125
+CLKin=1,RST=0,CLKout=0,@                  130
+CLKin=0,RST=0,CLKout=0,@                  135
+CLKin=1,RST=0,CLKout=0,@                  140
+CLKin=0,RST=0,CLKout=0,@                  145
+CLKin=1,RST=0,CLKout=0,@                  150
+CLKin=0,RST=0,CLKout=0,@                  155
+Set High
+CLKin=1,RST=0,CLKout=1,@                  160
+CLKin=0,RST=0,CLKout=1,@                  165
+CLKin=1,RST=0,CLKout=1,@                  170
+CLKin=0,RST=0,CLKout=1,@                  175
+CLKin=1,RST=0,CLKout=1,@                  180
+CLKin=0,RST=0,CLKout=1,@                  185
+CLKin=1,RST=0,CLKout=1,@                  190
+CLKin=0,RST=0,CLKout=1,@                  195
+CLKin=1,RST=0,CLKout=1,@                  200
+CLKin=0,RST=0,CLKout=1,@                  205
+Set Low
+CLKin=1,RST=0,CLKout=0,@                  210
+CLKin=0,RST=0,CLKout=0,@                  215
+Reset works
+CLKin=1,RST=1,CLKout=0,@                  220
+CLKin=0,RST=1,CLKout=0,@                  225
+CLKin=1,RST=0,CLKout=0,@                  230
+CLKin=0,RST=0,CLKout=0,@                  235
+CLKin=1,RST=0,CLKout=0,@                  240
+CLKin=0,RST=0,CLKout=0,@                  245
+CLKin=1,RST=0,CLKout=0,@                  250
+CLKin=0,RST=0,CLKout=0,@                  255
+CLKin=1,RST=0,CLKout=0,@                  260
+CLKin=0,RST=0,CLKout=0,@                  265
+CLKin=1,RST=0,CLKout=0,@                  270
+CLKin=0,RST=0,CLKout=0,@                  275
+Set High
+CLKin=1,RST=0,CLKout=1,@                  280
+CLKin=0,RST=0,CLKout=1,@                  285
+$finish called from file "prob1tb.v", line 60.
+$finish at simulation time                  290
+Simulation complete, time is 290.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 290
+CPU Time:      0.170 seconds;       Data structure size:   0.0Mb
+Fri Nov  3 16:26:39 2023
