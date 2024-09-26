@@ -1,0 +1,43 @@
+Chronologic VCS simulator copyright 1991-2019
+Contains Synopsys proprietary information.
+Compiler version P-2019.06-SP2-1_Full64; Runtime version P-2019.06-SP2-1_Full64;  Nov  3 18:18 2023
+VCD+ Writer P-2019.06-SP2-1_Full64 Copyright (c) 1991-2019 by Synopsys Inc.
+The file '/DCNFS/users/student/kmujtaba/elen127/exam2/prob2/inter.vpd' was opened successfully.
+Start of the test Preload Counter
+din=xx, dout=xx, rst=1, up=x, enb=0, load=x, rdb=0, carry=x @                   5
+din=11, dout=00, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  15
+din=11, dout=01, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  25
+din=fc, dout=02, rst=0, up=1, enb=0, load=1, rdb=0, carry=0 @                  35
+din=11, dout=fc, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  45
+din=11, dout=fd, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  55
+din=11, dout=fe, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  65
+din=11, dout=ff, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  75
+din=11, dout=00, rst=0, up=1, enb=1, load=0, rdb=0, carry=1 @                  85
+din=11, dout=00, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                  95
+din=11, dout=01, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 105
+din=11, dout=02, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 115
+din=11, dout=01, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 125
+din=11, dout=00, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 135
+din=11, dout=ff, rst=0, up=0, enb=1, load=0, rdb=0, carry=0 @                 145
+din=11, dout=ff, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 155
+din=11, dout=fe, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 165
+din=11, dout=fd, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 175
+din=11, dout=fc, rst=0, up=0, enb=0, load=0, rdb=0, carry=0 @                 185
+din=11, dout=fb, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 195
+din=11, dout=fc, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 205
+din=11, dout=zz, rst=0, up=1, enb=0, load=0, rdb=1, carry=0 @                 209
+din=11, dout=zz, rst=0, up=1, enb=0, load=0, rdb=1, carry=0 @                 215
+din=11, dout=zz, rst=0, up=1, enb=0, load=0, rdb=1, carry=0 @                 225
+din=11, dout=ff, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 235
+din=11, dout=00, rst=0, up=1, enb=0, load=0, rdb=0, carry=1 @                 245
+din=11, dout=01, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 255
+din=11, dout=02, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 265
+din=11, dout=03, rst=0, up=1, enb=0, load=0, rdb=0, carry=0 @                 275
+End of the test Preload Counter
+$finish called from file "prob2tb.v", line 75.
+$finish at simulation time                  284
+Simulation complete, time is 284.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 284
+CPU Time:      0.160 seconds;       Data structure size:   0.0Mb
+Fri Nov  3 18:20:28 2023
