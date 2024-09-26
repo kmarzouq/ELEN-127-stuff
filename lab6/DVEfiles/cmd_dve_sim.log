@@ -1,0 +1,81 @@
+ucliGUI::start /DCNFS/users/student/kmujtaba/elen127/labs/lab6/simv -ucligui 
+set ucliGUI::state
+set ucliGUI::state
+ucliCore::getToolPID
+synopsys::env hasTB
+trigger_hier_stack_context_switch 0
+synUtils::setDVEInitPhase 1
+synopsys::dump -type VPD -file /DCNFS/users/student/kmujtaba/elen127/labs/lab6/inter.vpd -locking
+synopsys::dump -autoflush on -fid VPD1
+set ::dve_fid VPD1
+synUtils::setDVEInitPhase 0
+ucliCore::getToolPID
+synUtils::sendTool -active _icl_setToolSocket /tmp/smlnpYUYua3
+synUtils::sendTool -active {_icl_start_rpc -version "P-2019.06-SP2-1_Full64" -sync_file /tmp/vcs_dve_rpc.kmujtaba.31558}
+synUtils::sendTool -active {_icl_createSharedMemory /tmp/vcs_dve_general.kmujtaba.31558}
+config endofsim noexit
+config onfail enable all
+config syscaddplainmembers
+config syscaddsourcenames
+config syscaddstructtypes
+synopsys::listing -disable
+if { ![gui_sim_state -check active] } {error "Simulator did not start correctly" error}
+#</Database>
+# DVE Global setting session:
+# Global: Breakpoints
+stop -file {/DCNFS/users/student/kmujtaba/elen127/labs/lab6/M23A6402.v}  -line {72}
+synopsys::watch -raw
+# Global: Bus
+# Global: Expressions
+# Global: Signal Time Shift
+# Global: Signal Compare
+# Global: Signal Groups
+synopsys::dump -add {testbench} -scope "." -depth 1 -fid VPD1
+set _session_group_7 testbench
+set testbench "$_session_group_7"
+set _session_group_8 $_session_group_7|
+append _session_group_8 Sgoat
+set testbench|Sgoat "$_session_group_8"
+# Global: Highlighting
+# Global: Stack
+synopsys::xml {set_only_active_frame <data value="1" />}
+# Global: Watch 'Watch'
+ucliGUI::getSignalValues -scope testbench.dut.Sgoat -radix {hexadecimal } -list {{data[7:0]} }
+ucliGUI::getSignalValues -scope testbench.dut.Sgoat -radix {hexadecimal } -list {{Addr[12:0]} }
+# Post database loading setting...
+# Restore C1 time
+# Save global setting...
+# Wave/List view global setting
+# Close all empty TopLevel windows
+foreach __top [gui_ekki_get_window_ids -type TopLevel] {     if { [llength [gui_ekki_get_window_ids -parent $__top]] == 0} {         gui_close_window -window $__top     } }
+# DVE View/pane content session:
+# View 'Wave.1'
+set groupExD [gui_get_pref_value -category Wave -key exclusiveSG]
+set origWaveHeight [gui_get_pref_value -category Wave -key waveRowHeight]
+set origGroupCreationState [gui_list_create_group_when_add -wave]
+synopsys::dump -add {testbench.dut.Sgoat.Addr testbench.dut.Sgoat.SR1 testbench.dut.Sgoat.data testbench.dut.Sgoat.re testbench.dut.Sgoat.we } -aggregates  -fid VPD1
+if {$origGroupCreationState} { 	gui_list_create_group_when_add -wave -enable }
+if { $groupExD } {  gui_msg_report -code DVWW028 }
+# Restore toplevel window zorder
+# The toplevel window could be closed if it has no view/pane
+if {[gui_exist_window -window ${TopLevel.2}]} { 	gui_set_active_window -window ${TopLevel.2} 	gui_set_active_window -window ${Wave.1} }
+#</Session>
+synopsys::run
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+ucliGUI::getSignalValues -scope testbench.dut.Sgoat -radix {hexadecimal hexadecimal } -list {{data[7:0]} {Addr[12:0]} }
+synopsys::run
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+set ucliGUI::state
+ucliGUI::getSignalValues -scope testbench.dut.Sgoat -radix {hexadecimal hexadecimal } -list {{data[7:0]} {Addr[12:0]} }
+if [catch {gui_sim_terminate}] {gui_sim_terminate -kill}
+synopsys::finish
+set ucliGUI::state
+set ucliGUI::state
+ucli_exit

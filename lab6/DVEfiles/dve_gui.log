@@ -1,0 +1,163 @@
+Chronologic VCS simulator copyright 1991-2019
+Contains Synopsys proprietary information.
+Compiler version P-2019.06-SP2-1_Full64; Runtime version P-2019.06-SP2-1_Full64;  Nov 14 15:40 2023
+VCD+ Writer P-2019.06-SP2-1_Full64 Copyright (c) 1991-2019 by Synopsys Inc.
+The file '/DCNFS/users/student/kmujtaba/elen127/labs/lab6/inter.vpd' was opened successfully.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0
+CPU Time:      0.060 seconds;       Data structure size:   0.0Mb
+Tue Nov 14 15:40:56 2023
+Chronologic VCS simulator copyright 1991-2019
+Contains Synopsys proprietary information.
+Compiler version P-2019.06-SP2-1_Full64; Runtime version P-2019.06-SP2-1_Full64;  Nov 14 15:40 2023
+VCD+ Writer P-2019.06-SP2-1_Full64 Copyright (c) 1991-2019 by Synopsys Inc.
+The file '/DCNFS/users/student/kmujtaba/elen127/labs/lab6/inter.vpd' was opened successfully.
+
+Stop point #1 @ 325 s;  
+Beginning write-read test
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   0,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                    5
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   0,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   10
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   1,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   15
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   1,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   20
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   2,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   25
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   2,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   30
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   3,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   35
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   3,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   40
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   4,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   45
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   4,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   50
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   5,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   55
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   5,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   60
+csb=0, so=z, sck=0, si=1,addr=0000,buff=00,re=0,we=0,cntr=   6,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=xx @                   65
+csb=0, so=z, sck=1, si=1,addr=0000,buff=00,re=0,we=0,cntr=   6,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   70
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   7,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   75
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   7,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   80
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   8,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   85
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   8,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   90
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   9,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                   95
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   9,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  100
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  10,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  105
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  10,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  110
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  11,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  115
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  11,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  120
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  12,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  125
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  12,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  130
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  13,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  135
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  13,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  140
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  14,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  145
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  14,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  150
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  15,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  155
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  15,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  160
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  16,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  165
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  16,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  170
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  17,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  175
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  17,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  180
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  18,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  185
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  18,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  190
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  19,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  195
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  19,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  200
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  20,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  205
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  20,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  210
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  21,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  215
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  21,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  220
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  22,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  225
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  22,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  230
+csb=0, so=z, sck=0, si=1,addr=0000,buff=00,re=0,we=0,cntr=  23,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=xx @                  235
+csb=0, so=z, sck=1, si=1,addr=0001,buff=00,re=0,we=0,cntr=  23,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  240
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  24,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  245
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  24,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  250
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  25,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  255
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  25,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  260
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  26,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  265
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  26,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  270
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  27,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  275
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  27,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  280
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  28,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  285
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  28,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  290
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  29,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  295
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  29,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  300
+csb=0, so=z, sck=0, si=0,addr=0001,buff=00,re=0,we=0,cntr=  30,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  305
+csb=0, so=z, sck=1, si=0,addr=0001,buff=00,re=0,we=0,cntr=  30,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  310
+csb=0, so=z, sck=0, si=1,addr=0001,buff=00,re=0,we=0,cntr=  31,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0001, SR1=xx @                  315
+csb=0, so=z, sck=1, si=1,addr=0001,buff=01,re=0,we=0,cntr=  31,crt=   0,state=101,instr=01000000,val=0,data=00000001,addr2=0001, SR1=xx @                  320
+
+Stop point #1 @ 655 s;  
+csb=0, so=z, sck=0, si=1,addr=0001,buff=01,re=0,we=1,cntr=   0,crt=   0,state=101,instr=01000000,val=0,data=00000001,addr2=0001, SR1=01 @                  325
+csb=1, so=z, sck=0, si=1,addr=0000,buff=00,re=0,we=0,cntr=   0,crt=   0,state=000,instr=00000000,val=1,data=00000000,addr2=0000, SR1=01 @                  330
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   0,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  335
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   0,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  340
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   1,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  345
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   1,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  350
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   2,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  355
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   2,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  360
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   3,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  365
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   3,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  370
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   4,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  375
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   4,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  380
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   5,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  385
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   5,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  390
+csb=0, so=z, sck=0, si=1,addr=0000,buff=00,re=0,we=0,cntr=   6,crt=   0,state=000,instr=00000000,val=0,data=00000000,addr2=0000, SR1=01 @                  395
+csb=0, so=z, sck=1, si=1,addr=0000,buff=00,re=0,we=0,cntr=   6,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  400
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   7,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  405
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   7,crt=   0,state=000,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  410
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   8,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  415
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   8,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  420
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=   9,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  425
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=   9,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  430
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  10,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  435
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  10,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  440
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  11,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  445
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  11,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  450
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  12,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  455
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  12,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  460
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  13,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  465
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  13,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  470
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  14,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  475
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  14,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  480
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  15,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  485
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  15,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  490
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  16,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  495
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  16,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  500
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  17,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  505
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  17,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  510
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  18,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  515
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  18,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  520
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  19,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  525
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  19,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  530
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  20,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  535
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  20,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  540
+csb=0, so=z, sck=0, si=0,addr=0000,buff=00,re=0,we=0,cntr=  21,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  545
+csb=0, so=z, sck=1, si=0,addr=0000,buff=00,re=0,we=0,cntr=  21,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  550
+csb=0, so=z, sck=0, si=1,addr=0000,buff=00,re=0,we=0,cntr=  22,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0000, SR1=01 @                  555
+csb=0, so=z, sck=1, si=1,addr=0002,buff=00,re=0,we=0,cntr=  22,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  560
+csb=0, so=z, sck=0, si=0,addr=0002,buff=00,re=0,we=0,cntr=  23,crt=   0,state=001,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  565
+csb=0, so=z, sck=1, si=0,addr=0002,buff=00,re=0,we=0,cntr=  23,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  570
+csb=0, so=z, sck=0, si=0,addr=0002,buff=00,re=0,we=0,cntr=  24,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  575
+csb=0, so=z, sck=1, si=0,addr=0002,buff=00,re=0,we=0,cntr=  24,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  580
+csb=0, so=z, sck=0, si=0,addr=0002,buff=00,re=0,we=0,cntr=  25,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  585
+csb=0, so=z, sck=1, si=0,addr=0002,buff=00,re=0,we=0,cntr=  25,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  590
+csb=0, so=z, sck=0, si=0,addr=0002,buff=00,re=0,we=0,cntr=  26,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  595
+csb=0, so=z, sck=1, si=0,addr=0002,buff=00,re=0,we=0,cntr=  26,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  600
+csb=0, so=z, sck=0, si=1,addr=0002,buff=00,re=0,we=0,cntr=  27,crt=   0,state=101,instr=01000000,val=0,data=00000000,addr2=0002, SR1=01 @                  605
+csb=0, so=z, sck=1, si=1,addr=0002,buff=10,re=0,we=0,cntr=  27,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  610
+csb=0, so=z, sck=0, si=0,addr=0002,buff=10,re=0,we=0,cntr=  28,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  615
+csb=0, so=z, sck=1, si=0,addr=0002,buff=10,re=0,we=0,cntr=  28,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  620
+csb=0, so=z, sck=0, si=0,addr=0002,buff=10,re=0,we=0,cntr=  29,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  625
+csb=0, so=z, sck=1, si=0,addr=0002,buff=10,re=0,we=0,cntr=  29,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  630
+csb=0, so=z, sck=0, si=1,addr=0002,buff=10,re=0,we=0,cntr=  30,crt=   0,state=101,instr=01000000,val=0,data=00010000,addr2=0002, SR1=01 @                  635
+csb=0, so=z, sck=1, si=1,addr=0002,buff=12,re=0,we=0,cntr=  30,crt=   0,state=101,instr=01000000,val=0,data=00010010,addr2=0002, SR1=01 @                  640
+csb=0, so=z, sck=0, si=0,addr=0002,buff=12,re=0,we=0,cntr=  31,crt=   0,state=101,instr=01000000,val=0,data=00010010,addr2=0002, SR1=01 @                  645
+csb=0, so=z, sck=1, si=0,addr=0002,buff=12,re=0,we=0,cntr=  31,crt=   0,state=101,instr=01000000,val=0,data=00010010,addr2=0002, SR1=01 @                  650
+ok
+
+ok
+
+ok
+
+ok
+
+ok
+
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 655
+CPU Time:      0.070 seconds;       Data structure size:   0.0Mb
+Tue Nov 14 15:44:46 2023
