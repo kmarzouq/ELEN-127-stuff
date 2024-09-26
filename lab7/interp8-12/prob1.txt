@@ -1,0 +1,200 @@
+No comparison found for value: 2032
+No comparison found for value: 2245
+No comparison found for value: 2336
+No comparison found for value: 2555
+No comparison found for value: 2646
+No comparison found for value: 2742
+No comparison found for value: 2827
+No comparison found for value: 3010
+No comparison found for value: 3089
+No comparison found for value: 3199
+No comparison found for value: 3348
+No comparison found for value: 3420
+No comparison found for value: 3496
+No comparison found for value: 3562
+No comparison found for value: 3692
+No comparison found for value: 3750
+No comparison found for value: 3795
+No comparison found for value: 3889
+No comparison found for value: 3945
+No comparison found for value: 3970
+No comparison found for value: 4011
+No comparison found for value: 4050
+No comparison found for value: 4070
+No comparison found for value: 4080
+No comparison found for value: 4080
+No comparison found for value: 4080
+No comparison found for value: 4072
+No comparison found for value: 4061
+No comparison found for value: 4003
+No comparison found for value: 3980
+No comparison found for value: 3941
+No comparison found for value: 3901
+No comparison found for value: 3802
+No comparison found for value: 3751
+No comparison found for value: 3681
+No comparison found for value: 3555
+No comparison found for value: 3493
+No comparison found for value: 3409
+No comparison found for value: 3353
+No comparison found for value: 3197
+No comparison found for value: 3099
+No comparison found for value: 3018
+No comparison found for value: 2816
+No comparison found for value: 2743
+No comparison found for value: 2646
+No comparison found for value: 2545
+No comparison found for value: 2348
+No comparison found for value: 2247
+No comparison found for value: 2145
+No comparison found for value: 2044
+No comparison found for value: 1847
+No comparison found for value: 1746
+No comparison found for value: 1661
+No comparison found for value: 1447
+No comparison found for value: 1346
+No comparison found for value: 1267
+No comparison found for value: 1176
+No comparison found for value: 1007
+No comparison found for value: 909
+No comparison found for value: 828
+No comparison found for value: 674
+No comparison found for value: 601
+No comparison found for value: 534
+No comparison found for value: 472
+No comparison found for value: 345
+No comparison found for value: 292
+Expected: 1388.0, Actual: 242, Percent Error: 82.56%
+Expected: 129.0, Actual: 207, Percent Error: 60.47%
+Expected: 2426.0, Actual: 120, Percent Error: 95.05%
+Expected: 3896.0, Actual: 81, Percent Error: 97.92%
+Expected: 4075.0, Actual: 58, Percent Error: 98.58%
+Expected: 2900.0, Actual: 17, Percent Error: 99.41%
+No comparison found for value: 6
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+No comparison found for value: 8
+Expected: 3344.0, Actual: 28, Percent Error: 99.16%
+No comparison found for value: 50
+Expected: 3617.0, Actual: 91, Percent Error: 97.48%
+Expected: 2681.0, Actual: 115, Percent Error: 95.71%
+Expected: 739.0, Actual: 155, Percent Error: 79.03%
+Expected: 1650.0, Actual: 248, Percent Error: 84.97%
+No comparison found for value: 294
+No comparison found for value: 351
+No comparison found for value: 465
+No comparison found for value: 531
+No comparison found for value: 606
+No comparison found for value: 678
+No comparison found for value: 826
+No comparison found for value: 903
+No comparison found for value: 999
+No comparison found for value: 1085
+No comparison found for value: 1268
+No comparison found for value: 1347
+No comparison found for value: 1454
+No comparison found for value: 1656
+No comparison found for value: 1747
+No comparison found for value: 1854
+No comparison found for value: 1945
+No comparison found for value: 2148
+No comparison found for value: 2254
+No comparison found for value: 2345
+No comparison found for value: 2548
+No comparison found for value: 2655
+No comparison found for value: 2736
+No comparison found for value: 2820
+No comparison found for value: 3021
+No comparison found for value: 3098
+No comparison found for value: 3193
+No comparison found for value: 3344
+No comparison found for value: 3414
+No comparison found for value: 3491
+No comparison found for value: 3557
+No comparison found for value: 3687
+No comparison found for value: 3747
+No comparison found for value: 3792
+No comparison found for value: 3853
+No comparison found for value: 3943
+No comparison found for value: 3968
+No comparison found for value: 4009
+No comparison found for value: 4049
+No comparison found for value: 4069
+No comparison found for value: 4080
+No comparison found for value: 4080
+No comparison found for value: 4080
+No comparison found for value: 4071
+No comparison found for value: 4060
+No comparison found for value: 4000
+No comparison found for value: 3977
+No comparison found for value: 3938
+No comparison found for value: 3897
+No comparison found for value: 3799
+No comparison found for value: 3748
+No comparison found for value: 3693
+No comparison found for value: 3631
+No comparison found for value: 3488
+No comparison found for value: 3419
+No comparison found for value: 3348
+No comparison found for value: 3192
+No comparison found for value: 3092
+No comparison found for value: 3012
+No comparison found for value: 2922
+No comparison found for value: 2737
+No comparison found for value: 2655
+No comparison found for value: 2554
+No comparison found for value: 2341
+No comparison found for value: 2240
+No comparison found for value: 2155
+No comparison found for value: 2036
+No comparison found for value: 1840
+No comparison found for value: 1755
+No comparison found for value: 1654
+No comparison found for value: 1441
+No comparison found for value: 1355
+No comparison found for value: 1277
+No comparison found for value: 1169
+No comparison found for value: 1002
+No comparison found for value: 903
+No comparison found for value: 823
+No comparison found for value: 749
+No comparison found for value: 595
+No comparison found for value: 529
+No comparison found for value: 467
+No comparison found for value: 341
+No comparison found for value: 289
+No comparison found for value: 254
+Expected: 88.0, Actual: 204, Percent Error: 131.82%
+No comparison found for value: 118
+No comparison found for value: 95
+Expected: 4050.0, Actual: 56, Percent Error: 98.62%
+No comparison found for value: 16
+Expected: 2293.0, Actual: 5, Percent Error: 99.78%
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+Expected: 2032.0, Actual: 0, Percent Error: 100.00%
+No comparison found for value: 6
+No comparison found for value: 27
+No comparison found for value: 47
+No comparison found for value: 88
+No comparison found for value: 113
+No comparison found for value: 151
+Expected: 1511.0, Actual: 245, Percent Error: 83.79%
+No comparison found for value: 290
+No comparison found for value: 346
+No comparison found for value: 412
+No comparison found for value: 542
+No comparison found for value: 600
+No comparison found for value: 674
+No comparison found for value: 821
+No comparison found for value: 897
+No comparison found for value: 994
+No comparison found for value: 1078
+No comparison found for value: 1278
+No comparison found for value: 1356
+No comparison found for value: 1447
+No comparison found for value: 1650
+No comparison found for value: 1756
+No comparison found for value: 1847
+No comparison found for value: 1938
