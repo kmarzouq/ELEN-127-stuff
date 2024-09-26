@@ -1,0 +1,26 @@
+{
+    "testbench": [
+        "testbench",
+        "iAVhC",
+        "module",
+        1
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        2
+    ],
+    "bcdadd": [
+        "bcdadd",
+        "RvLUT",
+        "module",
+        4
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        3
+    ]
+}
